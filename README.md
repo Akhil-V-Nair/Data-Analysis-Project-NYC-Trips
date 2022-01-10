@@ -26,3 +26,4 @@
  
  Screenshot of the Dashboard
  
+ Screenshot of the Model
