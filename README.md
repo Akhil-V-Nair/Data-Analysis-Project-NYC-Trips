@@ -11,8 +11,6 @@
 
  What's the average distance traveled per trip?
 
- How do we expect trip volume to change, relative to last week?
-
  Which days of the week and times of the day will be busiest?
 
  What will likely be the most popular pick-up and drop-off locations?
